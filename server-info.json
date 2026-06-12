@@ -1,28 +1,24 @@
 {
-"server": "BadlandsMD",
-"welcome": {
-"title": "Welcome to BadlandsMD",
-"subtitle": "Crossplay | 3x Harvest | 5x Tame | Fast Breed | 150 Wild"
-},
-"faq": [
-{
-"question": "How do I get help?",
-"answer": "Ask in Global Chat or contact an Admin."
-},
-{
-"question": "Is PvP enabled?",
-"answer": "Yes. Play fair and respect other players."
-},
-{
-"question": "Are there custom creatures?",
-"answer": "Yes. Dragon's Kingdom, Desolatitan, Meraxes and other creatures are installed."
-}
-],
-"rules": [
-"No cheating",
-"No exploiting",
-"No meshing",
-"Respect other players",
-"Have fun"
-]
+"WELCOME_TO_NUCLEUS": "Welcome to BadlandsMD",
+"WELCOME_TO_NUCLEUS_LINE0": "Crossplay | 3x Harvest | 5x Tame | Fast Breed | 150 Wild",
+"WELCOME_TO_NUCLEUS_LINE1": "Custom Creatures | Active Admins | Community Server",
+
+"FAQ_TITLE": "Frequently Asked Questions",
+
+"FAQ_Q1": "How do I get help?",
+"FAQ_A1": "Ask in Global Chat or contact an Admin.",
+
+"FAQ_Q2": "Is PvP enabled?",
+"FAQ_A2": "Yes. Play fair and respect other players.",
+
+"FAQ_Q3": "Are there custom creatures?",
+"FAQ_A3": "Yes. Dragon's Kingdom, Desolatitan, Meraxes and other creatures are installed.",
+
+"RULES_TITLE": "Server Rules",
+
+"RULE_1": "No cheating",
+"RULE_2": "No exploiting",
+"RULE_3": "No meshing",
+"RULE_4": "Respect other players",
+"RULE_5": "Have fun"
 }
