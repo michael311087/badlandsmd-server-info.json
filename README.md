@@ -1,0 +1,1 @@
+# badlandsmd-server-info.json
