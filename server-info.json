@@ -1,0 +1,28 @@
+{
+"server": "BadlandsMD",
+"welcome": {
+"title": "Welcome to BadlandsMD",
+"subtitle": "Crossplay | 3x Harvest | 5x Tame | Fast Breed | 150 Wild"
+},
+"faq": [
+{
+"question": "How do I get help?",
+"answer": "Ask in Global Chat or contact an Admin."
+},
+{
+"question": "Is PvP enabled?",
+"answer": "Yes. Play fair and respect other players."
+},
+{
+"question": "Are there custom creatures?",
+"answer": "Yes. Dragon's Kingdom, Desolatitan, Meraxes and other creatures are installed."
+}
+],
+"rules": [
+"No cheating",
+"No exploiting",
+"No meshing",
+"Respect other players",
+"Have fun"
+]
+}
